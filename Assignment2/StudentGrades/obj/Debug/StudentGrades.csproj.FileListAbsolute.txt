@@ -1,0 +1,41 @@
+c:\users\manvi\onedrive\documents\visual studio 2015\Projects\Assignment2\StudentGrades\bin\Debug\StudentGrades.exe.config
+c:\users\manvi\onedrive\documents\visual studio 2015\Projects\Assignment2\StudentGrades\bin\Debug\StudentGrades.exe
+c:\users\manvi\onedrive\documents\visual studio 2015\Projects\Assignment2\StudentGrades\bin\Debug\StudentGrades.pdb
+c:\users\manvi\onedrive\documents\visual studio 2015\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.csprojResolveAssemblyReference.cache
+c:\users\manvi\onedrive\documents\visual studio 2015\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.Properties.Resources.resources
+c:\users\manvi\onedrive\documents\visual studio 2015\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.csproj.GenerateResource.Cache
+c:\users\manvi\onedrive\documents\visual studio 2015\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.exe
+c:\users\manvi\onedrive\documents\visual studio 2015\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.pdb
+C:\Users\manvi\OneDrive\Documents\Visual Studio 2015\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.Addstudent.resources
+C:\Users\manvi\OneDrive\Documents\Visual Studio 2015\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.ClassGrades.resources
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\bin\Debug\StudentGrades.exe.config
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.exe
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.pdb
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.csprojResolveAssemblyReference.cache
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.Addstudent.resources
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.ClassGrades.resources
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.Properties.Resources.resources
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.csproj.GenerateResource.Cache
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\bin\Debug\StudentGrades.exe
+C:\Users\shavy\Documents\C#\Assignment2\StudentGrades\bin\Debug\StudentGrades.pdb
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\bin\Debug\StudentGrades.exe.config
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.exe
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.pdb
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\bin\Debug\StudentGrades.exe
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\bin\Debug\StudentGrades.pdb
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.csprojResolveAssemblyReference.cache
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.Addstudent.resources
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.ClassGrades.resources
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.Properties.Resources.resources
+C:\Users\Tejin\Desktop\C#\Assignment2\StudentGrades\obj\Debug\StudentGrades.csproj.GenerateResource.Cache
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\bin\Debug\StudentGrades.exe.config
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\bin\Debug\StudentGrades.exe
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\bin\Debug\StudentGrades.pdb
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.csprojAssemblyReference.cache
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.Addstudent.resources
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.ClassGrades.resources
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.Properties.Resources.resources
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.csproj.GenerateResource.cache
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.csproj.CoreCompileInputs.cache
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.exe
+D:\Sheridan 4th Semester\Web Services using .NET and C# Proramming\Projects\Assignment2\StudentGrades\obj\Debug\StudentGrades.pdb
